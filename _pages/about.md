@@ -36,17 +36,17 @@ These topics will be covered in **Four Modules**:
 
 - **Module II: Supervised Learning**
   - Linear Regression and Classification
-    - *Ridge Regression, Logistic Regression, Naive Bayes*
+    - Ridge Regression, Logistic Regression, Naive Bayes
   - Neural Networks
-    - *CNN, RNN*
+    - CNN, RNN
 
 - **Module III: Unsupervised Learning**
   - Clustering
-    - *K-means, Gaussian Mixture Models*
+    - K-means, Gaussian Mixture Models
   - Dimension Reduction and Representation Learning
-    - *PCA, SimCLR*
+    - PCA, SimCLR
   - Generative Models
-    - *VAE*
+    - VAE
 
 - **Module IV: Large Language Models (LLM)**
   - Attention, Transformer
