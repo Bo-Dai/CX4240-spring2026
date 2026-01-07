@@ -2,25 +2,53 @@
   <h2>Instructors</h2>
   <div class="instructors-list">
     <div class="ins-columns">
-    {% for instructor in site.data.staff.Instructors %}
-    <div class="instructor-profile">
-      <div class="instructor-info">
-        <strong>{{ instructor.name }}</strong>
-        <br />
-        <a href="mailto:{{ instructor.email | encode_email }}" target="_blank">{{ instructor.email }}</a>
+      {% for instructor in site.data.staff.Instructors %}
+      <div class="instructor-profile">
+        <div class="instructor-info">
+          {% if instructor.image %}
+            {% assign img_path = instructor.image | prepend: "/assets/img/" %}
+            <img src="{{ img_path | relative_url }}" class="staff-photo" alt="{{ instructor.name }}">
+          {% endif %}
+
+          {% if instructor.url %}
+            <strong>
+              <a class="staff-name-link" href="{{ instructor.url }}" target="_blank" rel="noopener noreferrer">
+                {{ instructor.name }}
+              </a>
+            </strong>
+          {% else %}
+            <strong>{{ instructor.name }}</strong>
+          {% endif %}
+
+          <br />
+          <a href="mailto:{{ instructor.email | encode_email }}" target="_blank">{{ instructor.email }}</a>
+        </div>
       </div>
+      {% endfor %}
     </div>
-    {% endfor %}
   </div>
-  </div>
-  
+
   <h2>Teaching Assistants</h2>
   <div class="tas-list">
     <div class="ta-columns">
       {% for ta in site.data.staff.TA %}
       <div class="ta-profile">
         <div class="ta-info">
-          <strong>{{ ta.name }}</strong>
+          {% if ta.image %}
+            {% assign img_path = ta.image | prepend: "/assets/img/" %}
+            <img src="{{ img_path | relative_url }}" class="staff-photo" alt="{{ ta.name }}">
+          {% endif %}
+
+          {% if ta.url %}
+            <strong>
+              <a class="staff-name-link" href="{{ ta.url }}" target="_blank" rel="noopener noreferrer">
+                {{ ta.name }}
+              </a>
+            </strong>
+          {% else %}
+            <strong>{{ ta.name }}</strong>
+          {% endif %}
+
           <br />
           <a href="mailto:{{ ta.email | encode_email }}" target="_blank">{{ ta.email }}</a>
         </div>
@@ -36,6 +64,9 @@
 <div class="office-hours">
   <h2>Office Hours</h2>
   <ul class="office-hours-list">
+    <li>
+      <strong>TBD</strong>
+    </li>
     <!-- <li>
       <strong>Tuesday:</strong> 2:30-3:30pm, <em>Online</em> (<a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzA3ZWI2OWUtNTEzNC00YzE4LTk4NmYtNmI5YmJmYTIyYzAx%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%224f6cd2ac-53df-4b00-9d76-e378aa26842c%22%7d" target="_blank">Join Session</a>):
       Prof. Dai
@@ -92,6 +123,31 @@
 
   .ta-info {
     font-size: 0.9rem;
+  }
+
+   /* Staff photo + name link */
+   .staff-photo {
+    display: block;
+    float: none;              /* key: cancel theme float */
+    clear: both;              /* optional: avoid previous floats */
+    width: 110px;
+    height: 110px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 0 auto 0.6rem auto;  /* center + spacing below */
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  }
+
+  .instructor-info, .ta-info {
+    text-align: center;
+  }
+
+  .staff-name-link {
+    color: inherit;
+    text-decoration: none;
+  }
+  .staff-name-link:hover {
+    text-decoration: underline;
   }
 
   /* Styles for Office Hours */
