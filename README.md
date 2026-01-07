@@ -1,2 +1,2 @@
-CS 4641 Spring 2025
-[Website](https://bo-dai.github.io/CS4641-spring2025/)
+CX 4240 Spring 2026
+[Website](https://lichangh20.github.io/CX4240-spring2026/)
