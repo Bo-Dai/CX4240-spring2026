@@ -58,7 +58,7 @@ These topics will be covered in **Four Modules**:
 **Time:** Monday/Wednesday 3:30-04:45 pm  
 **Location:** [Molecular Sciences and Engr G011](https://maps.app.goo.gl/ZkNdeSb7QVAW57aG6){:target="\_blank"}  
 <!-- todo: modify canvas link -->
-**Announcements & HW submission:** [Canvas](https://gatech.instructure.com/courses/448070){:target="\_blank"} and [Gradescope](https://www.gradescope.com/){:target="\_blank"}  
+**Announcements & HW submission:** [Canvas](https://gatech.instructure.com/courses/493336){:target="\_blank"} and [Gradescope](https://www.gradescope.com/){:target="\_blank"}  
 <!-- todo: modify discussion link -->
 **Contact:** For course-related questions, use [Ed Discussion](https://edstem.org/us/courses/71546/){:target="\_blank"}. For personal matters, email *bodai at cc.gatech.edu* or the TAs.
 
