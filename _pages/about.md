@@ -9,7 +9,7 @@ news: true
 
 *Welcome to the Spring 2026 offering of CX 4240!*
 
-This is a preliminary course for machine learning techniques, which extracts useful knowledge from data in real-world applications. On the technique side, we will cover key machine learning methods (supervised learning, representation learning, generative models, and foundation models). On the application side, it will introduce various applications of these techniques, including images/text generation and robotics. It will introduce how to formulate real-world tasks as data analysis problems, key methods for solving these problems, and their advantages and disadvantages.
+This course introduces techniques for computational data analysis, with an emphasis on machine learning techniques, which extracts useful knowledge from data in real-world applications. On the technique side, we will cover key machine learning methods (supervised learning, representation learning, generative models, and foundation models). On the application side, it will introduce various applications of these techniques, including images/text generation and robotics. It will introduce how to formulate real-world tasks as data analysis problems, key methods for solving these problems, and their advantages and disadvantages.
 
 The learning objective is that by the end of this course, the students are able to formulate their real-world problems at hand, choose appropriate machine learning methods to acquire insights from data automatically, and even come up with innovative solutions for solving open problems in this field. 
 
