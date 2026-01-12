@@ -55,6 +55,7 @@ Reproduce classic papers, include but not limited to:
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)  
 - [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)  
 - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
+- [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
 - etc  
 
 You may also refer to the Stanford Project Examples.
@@ -104,7 +105,7 @@ We appreciate student participation in the class! We will be awarding, on a case
 ### AI-Based Assistance
 We are using the AI assistant policy developed by [David Joyner](https://www.cc.gatech.edu/news/new-policies-navigate-role-ai-assistants-cs-courses) and shared by other classes at Georgia Tech ([CS 7643 Deep Learning](https://faculty.cc.gatech.edu/~zk15/teaching/AY2024_cs7643_spring/#ai-based-assistance)). The summary is that you should treat your AI source like a human source, with all accompanying plagiarism implications:
 
-*We treat AI-based assistance, such as ChatGPT and Copilot, the same way we treat collaboration with other people: you are welcome to talk about your ideas and work with other people, both inside and outside the class, as well as with AI-based assistants.*
+*We treat AI-based assistance, such as Gemini and ChatGPT, the same way we treat collaboration with other people: you are welcome to talk about your ideas and work with other people, both inside and outside the class, as well as with AI-based assistants.*
 
 *However, all work you submit must be your own. You should never include in your assignment anything that was not written directly by you without proper citation (including quotation marks and in-line citation for direct quotes).
 Including anything you did not write in your assignment without proper citation will be treated as an academic misconduct case. If you are unsure where the line is between collaborating with AI and copying AI, we recommend the following heuristics:*
