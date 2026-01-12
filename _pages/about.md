@@ -60,6 +60,6 @@ These topics will be covered in **Four Modules**:
 <!-- todo: modify canvas link -->
 **Announcements & HW submission:** [Canvas](https://gatech.instructure.com/courses/493336){:target="\_blank"} and [Gradescope](https://www.gradescope.com/){:target="\_blank"}  
 <!-- todo: modify discussion link -->
-**Contact:** For course-related questions, use [Ed Discussion](https://edstem.org/us/courses/71546/){:target="\_blank"}. For personal matters, email *bodai at cc.gatech.edu* or the TAs.
+**Contact:** For course-related questions, use [Ed Discussion](https://edstem.org/us/courses/92787){:target="\_blank"}. For personal matters, email *bodai at cc.gatech.edu* or the TAs.
 
 ***
