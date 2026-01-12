@@ -292,7 +292,15 @@
 - date: 04/27
   lecturer:  Bo Dai
   title: >
-    No Class; Project Report Due
+    No Class
+  slides: 
+  # video:
+  readings:
+
+- date: 05/04
+  lecturer:  Bo Dai
+  title: >
+    Project Report Due
   slides: 
   # video:
   readings:
