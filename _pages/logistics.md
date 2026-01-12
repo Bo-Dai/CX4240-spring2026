@@ -64,7 +64,7 @@ You may also refer to the Stanford Project Examples.
 - **Presentation (15%)**  
 - **Final Report (25%)**:  
   All write-ups should use the [NeurIPS style](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles).  
-  Your final report is expected to be **5 pages excluding references**. It should have roughly the following format:
+  Your final report is expected to be **up to 6 pages excluding references**. It should have roughly the following format:
   - **Introduction**: Problem definition and motivation  
   - **Background & Related Work**: Background info and literature survey  
   - **Methods**:
