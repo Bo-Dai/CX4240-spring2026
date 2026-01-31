@@ -33,7 +33,7 @@ title: Lectures
         <br />
         {{ lecture.title }}
         <br />
-        {% if lecture.slides or lecture.notes or lecture.assignment or lecture.code_data or lecture.solution or lecture.tex or lecture.reading %}
+        {% if lecture.slides or lecture.notes or lecture.assignment or lecture.code_data or lecture.solution or lecture.tex or lecture.reading or lecture.video%}
         [
             {% if lecture.slides %}
             <a href="{{ lecture.slides }}" target="_blank">slides</a>
