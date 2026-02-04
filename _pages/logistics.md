@@ -28,7 +28,7 @@ The grading breakdown is as follows:
 There will be three assignments, each account for 10% towards your final score. Each assignment includes written analysis and/or programming for testing your understanding of the taught content.
 
 **Late policy**:  
-Assignments are due at 11:59 PM of the due date. You will be allowed 2 total late days (48 hours) without penalty for the entire semester (for homework only, not applicable to exams or projects). Once those days are used, you will be penalized according to the following policy:  
+Assignments are due at 11:59 PM of the due date. You will be allowed **2 total late days (48 hours)** without penalty for the entire semester (for homework only, not applicable to exams or projects). Once those days are used, you will be penalized according to the following policy:  
 - Homework is worth full credit before the due time.  
 - It is worth 75% credit for the next 24 hours.  
 - It is worth 50% credit for the second next 24 hours.  
@@ -46,7 +46,7 @@ You are required to use **Latex** ([OverLeaf Latex Example in the Video](https:/
 #### <u>Project (40%)</u>
 
 **Team Size**:  
-Each project must be completed in a team of 5-6. Once you have formed your group, please send one email per team to the class instructor list with the names of all team members. If you have trouble forming a group, please send us an email and we will help you find project partners.  
+Each project must be completed in a team of **5-6**. Once you have formed your group, please send one email per team to the class instructor list with the names of all team members. If you have trouble forming a group, please send us an email and we will help you find project partners.  
 The team formation email will be due at **11:59 PM on Feb 16th**.
 
 **Projects Topics**:  
