@@ -46,7 +46,7 @@ You are required to use **Latex** ([OverLeaf Latex Example in the Video](https:/
 #### <u>Project (40%)</u>
 
 **Team Size**:  
-Each project must be completed in a team of 3–5. Once you have formed your group, please send one email per team to the class instructor list with the names of all team members. If you have trouble forming a group, please send us an email and we will help you find project partners.  
+Each project must be completed in a team of 5-6. Once you have formed your group, please send one email per team to the class instructor list with the names of all team members. If you have trouble forming a group, please send us an email and we will help you find project partners.  
 The team formation email will be due at **11:59 PM on Feb 16th**.
 
 **Projects Topics**:  
