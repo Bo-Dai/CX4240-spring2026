@@ -142,7 +142,8 @@
   # video: https://gatech.instructure.com/courses/448070/external_tools/17731
   # code: https://colab.research.google.com/drive/1FERNv6t8xpX9Nly_JdnePWEPllI7F3Fx?usp=sharing
   readings:
-    - text: Online Session Link (https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODU0NWYxNjYtZTZhNy00MWZhLTlhMzMtMTM2NzIxMmIyNmFk%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%223b42ea2d-3e70-406e-afa5-24ae515fc2e4%22%7d)
+    - text: Online TA Session Link 
+      url: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODU0NWYxNjYtZTZhNy00MWZhLTlhMzMtMTM2NzIxMmIyNmFk%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%223b42ea2d-3e70-406e-afa5-24ae515fc2e4%22%7d
 
 - title: "Module 3: Unsupervised Learning"
 
