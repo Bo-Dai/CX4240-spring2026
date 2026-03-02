@@ -138,9 +138,9 @@
   title: >
     <strong>PyTorch Review Session (TA session)</strong>
   slides: 
-  # code_data: https://colab.research.google.com/drive/1lImrcJ--PuMZP8K6R8zZoU_DMnnXvZmA?usp=sharing
+  code_data: https://bo-dai.github.io/CX4240-spring2026/slides/CX4240_TA_session_pytorch.ipynb
   # video: https://gatech.instructure.com/courses/448070/external_tools/17731
-  code: https://colab.research.google.com/drive/1FERNv6t8xpX9Nly_JdnePWEPllI7F3Fx?usp=sharing
+  # code: https://colab.research.google.com/drive/1FERNv6t8xpX9Nly_JdnePWEPllI7F3Fx?usp=sharing
   readings:
     # - [Colab]
 
