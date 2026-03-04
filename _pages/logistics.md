@@ -32,7 +32,7 @@ The grading breakdown is as follows:
 #### <span style="color:red"><u>Update on March 4th</u></span>
 
 - Based on the poll on Ed, we will have an additional proposal with <span style="color:red">10% bonus</span> credit.
-- The deadline will be <span style="color:red">April 13th</span>.
+- The deadline will be <span style="color:red">March 13th</span>.
 - The practice exam will be released on  <span style="color:red">March 6th</span>.
 - We will have a makeup exam on  <span style="color:red">March 16th or 17th</span> (TBD).
   - You must have an approved absence in order to take the makeup exam.
