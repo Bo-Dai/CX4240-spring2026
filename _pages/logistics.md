@@ -1,11 +1,13 @@
----
 layout: page
 permalink: /grading_logistics/
+
 title: Grading & Logistics
 ---
 
 * (The list will be replaced with the table of contents.)
 {:toc}
+
+
 
 ***
 
@@ -23,12 +25,27 @@ The required textbook for this class is (note that the material of the class goe
 
 The grading breakdown is as follows:
 
+
+
+---
+
+#### <span style="color:red"><u>Update on March 4th</u></span>
+
+- Based on the poll on Ed, we will have an additional proposal with <span style="color:red">10% bonus</span> credit.
+- The deadline will be <span style="color:red">April 13th</span>.
+- The practice exam will be released on  <span style="color:red">March 6th</span>.
+- We will have a makeup exam on  <span style="color:red">March 16th or 17th</span> (TBD).
+  - You must have an approved absence in order to take the makeup exam.
+
+---
+
 #### <u>Homework (30%)</u>
 
 There will be three assignments, each account for 10% towards your final score. Each assignment includes written analysis and/or programming for testing your understanding of the taught content.
 
 **Late policy**:  
 Assignments are due at 11:59 PM of the due date. You will be allowed **2 total late days (48 hours)** without penalty for the entire semester (for homework only, not applicable to exams or projects). Once those days are used, you will be penalized according to the following policy:  
+
 - Homework is worth full credit before the due time.  
 - It is worth 75% credit for the next 24 hours.  
 - It is worth 50% credit for the second next 24 hours.  
@@ -51,6 +68,7 @@ The team formation email will be due at **11:59 PM on Feb 16th**.
 
 **Projects Topics**:  
 Reproduce classic papers, include but not limited to:  
+
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)  
 - [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)  
@@ -61,6 +79,7 @@ Reproduce classic papers, include but not limited to:
 You may also refer to the Stanford Project Examples.
 
 **2 Deliverables**:  
+
 - **Presentation (15%)**  
 - **Final Report (25%)**:  
   All write-ups should use the [NeurIPS style](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles).  
@@ -79,6 +98,7 @@ You may also refer to the Stanford Project Examples.
 The project final report will be due at **11:59 PM on May 4th**.
 
 **Criteria**:
+
 - 30% for proposed method (soundness and originality)  
 - 30% for correctness, completeness, and difficulty of experiments and figures  
 - 20% for empirical and theoretical analysis of results and methods  
@@ -92,8 +112,10 @@ The project final report will be due at **11:59 PM on May 4th**.
 #### <u>Exam (30%)</u>
 
 One exam will be held on **March 18** in lieu of the regular class:  
+
 - It will be a closed-book exam, so no notes or communication with peers is allowed.  
-- There will be no make-up exams, so be sure to attend on the scheduled date. Missing the exam will result in zero credit.
+- <span style="color:red">Students who cannot attend the exam must obtain an official approval of absence and take the makeup exam on March 16th or 17th (TBD)</span>.
+-  Missing the exam will result in zero credit.
 
 ---
 
@@ -103,6 +125,7 @@ We appreciate student participation in the class! We will be awarding, on a case
 
 
 ### AI-Based Assistance
+
 We are using the AI assistant policy developed by [David Joyner](https://www.cc.gatech.edu/news/new-policies-navigate-role-ai-assistants-cs-courses) and shared by other classes at Georgia Tech ([CS 7643 Deep Learning](https://faculty.cc.gatech.edu/~zk15/teaching/AY2024_cs7643_spring/#ai-based-assistance)). The summary is that you should treat your AI source like a human source, with all accompanying plagiarism implications:
 
 *We treat AI-based assistance, such as Gemini and ChatGPT, the same way we treat collaboration with other people: you are welcome to talk about your ideas and work with other people, both inside and outside the class, as well as with AI-based assistants.*
