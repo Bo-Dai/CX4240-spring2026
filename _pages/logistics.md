@@ -1,6 +1,6 @@
+---
 layout: page
 permalink: /grading_logistics/
-
 title: Grading & Logistics
 ---
 
