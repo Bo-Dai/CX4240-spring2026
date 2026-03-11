@@ -229,7 +229,7 @@
   # slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture21.pdf
   # video:
   readings:
-    # - text: Project Presentation Sign-up
+    - text: Project Presentation Sign-up
     #   url: https://docs.google.com/spreadsheets/d/1QX759JzkRaGs-H1y_UDM0mlCeBMdyX3pyj8TKTSNWLc/edit?usp=sharing
 
 
@@ -242,7 +242,6 @@
   # slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture22.pdf
   # video:
   readings:
-    - text: Project Presentation Sign-up
 
 - date: 04/08
   lecturer:  Bo Dai
