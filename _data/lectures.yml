@@ -247,20 +247,20 @@
 - date: 04/08
   lecturer:  Bo Dai
   title: >
-    <strong>LLMs: Instruction Fine-Tuning</strong>
-  # slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture23.pdf
-  # video:
-  readings:
-
-- date: 04/13
-  lecturer:  Bo Dai
-  title: >
-    <strong>LLMs: RLHF</strong>
+    <strong>LLMs: Instruction Fine-Tuning & RLHF</strong>
   # slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture23.pdf
   # video:
   readings:
 
 - title: "Module 5: Projects"
+
+- date: 04/13
+  lecturer:  Bo Dai
+  title: >
+    <strong>Project Presentation</strong>
+  # slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture23.pdf
+  # video:
+  readings:
 
 - date: 04/15
   lecturer:  Bo Dai
