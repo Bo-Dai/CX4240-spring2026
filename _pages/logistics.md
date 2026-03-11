@@ -87,9 +87,8 @@ You may also refer to the Stanford Project Examples.
   - **Introduction**: Problem definition and motivation  
   - **Background & Related Work**: Background info and literature survey  
   - **Methods**:
-    - Overview of your proposed method  
-    - Intuition on why should it be better than the state of the art  
-    - Details of models and algorithms that you developed  
+    - Details of the method reproduced
+    - Intuition why the method is better (echoing the motivation: which special mechanism in the method will solve the motivated problem) 
   - **Experiments**:  
     - Description of your testbed and a list of questions your experiments are designed to answer  
     - Details of the experiments and results  
@@ -99,10 +98,11 @@ The project final report will be due at **11:59 PM on May 4th**.
 
 **Criteria**:
 
-- 30% for proposed method (soundness and originality)  
-- 30% for correctness, completeness, and difficulty of experiments and figures  
-- 20% for empirical and theoretical analysis of results and methods  
-- 20% for quality of writing (clarity, organization, flow, etc.)
+- 10% for Introduction & Literature Survey (Problem definition, motivation, and related work.)
+- 30% for Method Reproduction & Understanding (Correct implementation of the selected paper and clear explanation of the method.)
+- 30% for Experiments & Results (Correctness and completeness of experiments; ability to reproduce key results.)
+- 10% for Analysis & Insights (Discussion and analysis of results; optional extensions (e.g., ablations or variations).)
+- 20% for Writing Quality (Clarity, organization, and presentation.)
 
 **Computing Resources**:  
 [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) allows free access to run Jupyter Notebooks using GPU resources. The [Google Cloud Platform](https://cloud.google.com/edu/students?hl=en) and [AWS Educate](https://aws.amazon.com/education/awseducate/) are also good resources. [The GitHub Student Developer Pack](https://education.github.com/pack) also offers free Microsoft Azure and Digital Ocean credits. This semester, we are also offering [PACE ICE](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0042102), Georgia Tech’s in-home cluster to students.
