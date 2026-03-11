@@ -85,9 +85,8 @@ Your final report is expected to be **5 pages excluding references**. It should 
 - Introduction: problem definition and motivation
 - Background & Related Work: background info and literature survey
 - Methods
--- Overview of your proposed method
--- Intuition on why should it be better than the state of the art
--- Details of models and algorithms that you developed
+-- Details of the method reproduced
+-- Intuition why the method is better (echoing the motivation: which special mechanism in the method will solve the motivated problem)
 - Experiments
 -- Description of your testbed and a list of questions your experiments are designed to answer
 -- Details of the experiments and results
@@ -95,11 +94,11 @@ Your final report is expected to be **5 pages excluding references**. It should 
 
 The grading breakdown for the final report is as follows:
 
-- 10% for introduction and literature survey
-- 30% for proposed method (soundness and originality)
-- 30% for correctness, completeness, and difficulty of experiments and figures
-- 10% for empirical and theoretical analysis of results and methods
-- 20% for quality of writing (clarity, organization, flow, etc.)
+- 10% for Introduction & Literature Survey (Problem definition, motivation, and related work.)
+- 30% for Method Reproduction & Understanding (Correct implementation of the selected paper and clear explanation of the method.)
+- 30% for Experiments & Results (Correctness and completeness of experiments; ability to reproduce key results.)
+- 10% for Analysis & Insights (Discussion and analysis of results; optional extensions (e.g., ablations or variations).)
+- 20% for Writing Quality (Clarity, organization, and presentation.)
 
 <!---
 The project final report will be due at **11:59 PM on Friday, May 10th** (tentative), and must be submitted via [Gradescope](https://www.gradescope.com/courses/36025).
