@@ -170,7 +170,8 @@
   title: >
     <strong>Variational Auto-Encoder</strong>
   slides: https://bo-dai.github.io/CX4240-spring2026/slides/lecture17.pdf
-  # assignment: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_HW3.pdf
+  assignment: https://bo-dai.github.io/CX4240-spring2026/assignment/CX_4240_Homework3.pdf
+  tex: https://bo-dai.github.io/CX4240-spring2026/assignment/CX_4240_Homework3.zip
   # solution: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_HW3_sol.pdf
   # tex: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_HW3_tex.zip
   # practice: https://bo-dai.github.io/CS4641-spring2025/assignment/CS4641_midterm_practice.pdf
