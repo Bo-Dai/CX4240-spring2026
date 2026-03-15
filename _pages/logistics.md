@@ -78,7 +78,7 @@ Reproduce classic papers, include but not limited to:
 
 You may also refer to the Stanford Project Examples.
 
-**2 Deliverables**:  
+**Deliverables**:  
 
 - **Presentation (15%)**  
 - **Final Report (25%)**:  
@@ -93,6 +93,7 @@ You may also refer to the Stanford Project Examples.
     - Description of your testbed and a list of questions your experiments are designed to answer  
     - Details of the experiments and results  
   - **Conclusion**: Discussion and future work  
+  - <span style="color:red">**Contribution Section**</span>: A separate section should be included in the final report to clearly describe each author's individual contributions.
 
 The project final report will be due at **11:59 PM on May 4th**.
 
