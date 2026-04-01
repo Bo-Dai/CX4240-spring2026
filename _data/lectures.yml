@@ -233,7 +233,7 @@
   # video:
   readings:
     - text: Project Presentation Sign-up
-    #   url: https://docs.google.com/spreadsheets/d/1QX759JzkRaGs-H1y_UDM0mlCeBMdyX3pyj8TKTSNWLc/edit?usp=sharing
+      url: https://docs.google.com/spreadsheets/d/1fCg8gstkckWvPZOsIBTUvDhcK-VPI2RyKFrKKbjiWGc/edit?pli=1&gid=0#gid=0
 
 
 - title: "Module 4: Large Language Models"
@@ -263,6 +263,8 @@
   # slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture23.pdf
   # video:
   readings:
+    - text: Teams Meeting Link
+      url: https://teams.microsoft.com/meet/2912704851006?p=r6GyRdo62b9Fhkgbtj
 
 - date: 04/15
   lecturer:  Bo Dai
@@ -272,8 +274,8 @@
   # video:
   readings:
     # - text: Presenting Group No. 19, 16, 13, 17, 1
-    # - text: Zoom Link
-    #   url: https://gatech.zoom.us/j/99950837185?pwd=vIKGembhjBJxcVPiH2p1GBHeiaWSWR.1
+    - text: Teams Meeting Link
+      url: https://teams.microsoft.com/meet/2912704851006?p=r6GyRdo62b9Fhkgbtj
 
 - date: 04/20
   lecturer:  Bo Dai
@@ -283,8 +285,8 @@
   # video:
   readings:
     # - text: Presenting Group No. 12, 10, 2, 7, 11, 20
-    # - text: Zoom Link
-    #   url: https://gatech.zoom.us/j/99950837185?pwd=vIKGembhjBJxcVPiH2p1GBHeiaWSWR.1
+    - text: Teams Meeting Link
+      url: https://teams.microsoft.com/meet/2912704851006?p=r6GyRdo62b9Fhkgbtj
 
 - date: 04/22
   lecturer:  Bo Dai
@@ -294,8 +296,8 @@
   # video:
   readings:
     # - text: Presenting Group No. 8, 3, 15, 9, 23, 22
-    # - text: Zoom Link
-    #   url: https://gatech.zoom.us/j/99950837185?pwd=vIKGembhjBJxcVPiH2p1GBHeiaWSWR.1
+    - text: Teams Meeting Link
+      url: https://teams.microsoft.com/meet/2912704851006?p=r6GyRdo62b9Fhkgbtj
 
 - date: 04/27
   lecturer:  Bo Dai
