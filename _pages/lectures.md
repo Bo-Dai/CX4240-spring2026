@@ -33,7 +33,7 @@ title: Lectures
         <br />
         {{ lecture.title }}
         <br />
-        {% if lecture.slides or lecture.notes or lecture.assignment or lecture.code_data or lecture.solution or lecture.tex or lecture.reading or lecture.video%}
+        {% if lecture.slides or lecture.notes or lecture.assignment or lecture.code_data or lecture.solution or lecture.makeup_solution or lecture.tex or lecture.reading or lecture.video%}
         [
             {% if lecture.slides %}
             <a href="{{ lecture.slides }}" target="_blank">slides</a>
@@ -59,6 +59,14 @@ title: Lectures
             {% if lecture.solution %}
             <a href="{{ lecture.solution }}" target="_blank">solution</a>
             {% endif %}
+
+            {% if lecture.solution and lecture.makeup_solution %}
+            |
+            {% endif %}
+            {% if lecture.makeup_solution %}
+            <a href="{{ lecture.makeup_solution }}" target="_blank">makeup solution</a>
+            {% endif %}
+
 
             {% if lecture.solution and lecture.code_data %}
             |
