@@ -242,7 +242,7 @@
   lecturer:  Bo Dai
   title: >
     <strong>LLMs: Attention and Transformer</strong>
-  # slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture22.pdf
+  slides: https://bo-dai.github.io/CX4240-spring2026/slides/lecture22.pdf
   # video:
   readings:
 
@@ -250,7 +250,7 @@
   lecturer:  Bo Dai
   title: >
     <strong>LLMs: Instruction Fine-Tuning & RLHF</strong>
-  # slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture23.pdf
+  # slides: https://bo-dai.github.io/CX4240-spring2026/slides/lecture23.pdf
   # video:
   readings:
 
@@ -260,7 +260,7 @@
   lecturer:  Bo Dai
   title: >
     <strong>Project Presentation</strong>
-  # slides: https://bo-dai.github.io/CS4641-spring2025/slides/lecture23.pdf
+  # slides: https://bo-dai.github.io/CX4240-spring2026/slides/lecture23.pdf
   # video:
   readings:
     - text: Teams Meeting Link
