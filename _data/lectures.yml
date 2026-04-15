@@ -265,6 +265,8 @@
   readings:
     - text: Teams Meeting Link
       url: https://teams.microsoft.com/meet/2912704851006?p=r6GyRdo62b9Fhkgbtj
+    - text: Project Presentation Recording
+      url: https://teams.microsoft.com/l/meetingrecap?driveId=b%21Ye28mVBYlEa25JVc3cOMsVOx7Si-W41NhwUcar4Oe9Fe7ECNpLDNTbG_n5GMXsp7&driveItemId=01NGNVMLVFZHAILVGLZRDKABQDSAGNXVGY&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fcgao304_gatech_edu%2FIQClycCF1MvMRqAGA5AM29TYAY_1OqE4JR3eFnG960JuUCY&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fcgao304_gatech_edu%2FIQClycCF1MvMRqAGA5AM29TYAY_1OqE4JR3eFnG960JuUCY&iCalUid=040000008200E00074C5B7101A82E00807EA040DCB50F17C0EC2DC010000000000000000100000001851F0252A01C74A93D8D40E7C05B42B&masterICalUid=040000008200E00074C5B7101A82E00800000000CB50F17C0EC2DC010000000000000000100000001851F0252A01C74A93D8D40E7C05B42B&threadId=19%3Ameeting_YWZkN2Y1MmYtMjQ4My00MDkyLWEzMGYtNGY1MDgzNWEzZGQw%40thread.v2&organizerId=3b42ea2d-3e70-406e-afa5-24ae515fc2e4&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=247b5345-4f85-4643-aa36-a5d78cff8ee8&threadType=Meeting&meetingType=Recurring&subType=RecapSharingLink_RecapChiclet
 
 - date: 04/15
   lecturer:  Bo Dai
